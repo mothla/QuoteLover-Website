@@ -6,7 +6,7 @@ The UI/UX project was completed by the talented designers, Ms. Mothla Alnoshan a
 Work together with the development team to build a website support system that accommodates multiple languages. The website's core idea is to offer a diverse range of quotes, including inspirational, book, and love quotes, in various languages, with seamless language-switching capabilities for users.
 
 ## Let's watch this video that demonstrates the workflow of the website!
-[Watch Video!]([https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/file/d/1arWDod0iZEX1ZHR6xwk3K_v5P-wKuMMx/view?usp=drive_link))
+[Watch Video!](https://drive.google.com/file/d/1arWDod0iZEX1ZHR6xwk3K_v5P-wKuMMx/view?usp=drive_link)
 
 ## The Link of Project in Figma
 [Click Here!](https://www.figma.com/file/Az63zvFEvZ4u93HSvGRB1K/QuoteLover?type=design&node-id=93%3A31&mode=design&t=66tMBprNOmfUbOT7-1)
